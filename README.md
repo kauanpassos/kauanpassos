@@ -3,7 +3,7 @@
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
 💻 Focado em desenvolvimento e evolução constante <br>
-🚀 Em busca da primeira oportunidade na área
+🚀 Em busca da primeira oportunidade
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ## 🧠 Tecnologias que estudo
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cs" />
 </p>
 
 ---
@@ -19,13 +19,13 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauanpassos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauanpassos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
   <img height="170" src="https://streak-stats.demolab.com?user=kauanpassos&theme=tokyonight&locale=pt-br"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanpassos&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanpassos&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -33,7 +33,7 @@
 ## 🏆 Conquistas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kauanpassos&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kauanpassos&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Contato
 
 <p align="center">
   <a href="https://www.instagram.com/eae_silvakjkk/">
@@ -64,8 +64,8 @@
 
 ---
 
-## ✨ Frase que me move
+## ✨ Frase
 
 <p align="center">
-"Pequenos commits todos os dias constroem grandes projetos."
+Pequenos commits todos os dias constroem grandes projetos.
 </p>
