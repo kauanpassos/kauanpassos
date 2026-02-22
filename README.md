@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, eu sou o Kauan</h1>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-💻 Focado em desenvolvimento e evolução constante <br>
-🚀 Em busca da primeira oportunidade
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)<br>
+💻 Focado em me tornar um Desenvolvedor Full Stack<br>
+🚀 Apaixonado por resolver problemas com código
 </p>
 
 ---
@@ -11,29 +11,7 @@
 ## 🧠 Tecnologias que estudo
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,cs" />
-</p>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauanpassos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-  <img height="170" src="https://streak-stats.demolab.com?user=kauanpassos&theme=tokyonight&locale=pt-br"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanpassos&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kauanpassos&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs" />
 </p>
 
 ---
@@ -49,7 +27,7 @@
 ## 🌐 Contato
 
 <p align="center">
-  <a href="https://www.instagram.com/eae_silvakjkk/">
+  <a href="https://www.instagram.com/eae_silvakjkk/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
@@ -57,15 +35,14 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/kauanpassos">
+  <a href="https://www.linkedin.com/in/kauanpassos" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 ---
 
-## ✨ Frase
+## ✨ Sobre mim
 
-<p align="center">
-Pequenos commits todos os dias constroem grandes projetos.
-</p>
+Sou estudante de ADS no Centro Universitário ENIAC, focado em evolução constante e na construção de projetos que me levem ao nível Full Stack.  
+Gosto de transformar problemas complexos em soluções simples através do código.
