@@ -13,9 +13,15 @@
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.instagram.com/eae_silvakjkk/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:kauansilva16ksp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/kauanpassos"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/eae_silvakjkk/">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:kauansilva16ksp@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/kauanpassos">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
   <img src="https://img.shields.io/badge/Discord-eae__silvakjkk-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </p>
 
@@ -24,7 +30,7 @@
 ## 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css,git" />
 </p>
 
 ---
@@ -45,7 +51,7 @@
 ## 🏆 Conquistas
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kauanpassos&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kauanpassos&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -53,7 +59,7 @@
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kauanpassos/kauanpassos/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/kauanpassos/kauanpassos/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
