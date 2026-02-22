@@ -16,7 +16,7 @@
 
 ---
 
-## 🐍 Snake das contribuições
+## 🐍 Commmits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kauanpassos/kauanpassos/output/github-contribution-grid-snake-dark.svg"/>
