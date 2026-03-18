@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Kauan</h1>
+<h1 align="center">Olá, eu sou o Kauan Passos</h1>
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)<br>
