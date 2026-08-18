@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=KAUAN_PASSOS&fontSize=48&fontColor=a855f7&fontAlignY=40&desc=FULL_STACK_DEVELOPER&descAlignY=75&descSize=16&animation=fadeIn" alt="Kauan Passos Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=7e22ce&section=header&text=KAUAN_PASSOS&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=FULL_STACK_DEVELOPER&descAlignY=60&descSize=16&animation=fadeIn" alt="Kauan Passos Header" />
 </div>
 
 <div align="center">
